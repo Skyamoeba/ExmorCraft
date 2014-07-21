@@ -12,5 +12,5 @@ I will be forking mods to my profile to make sure ExmorCraft is happy running wi
 
 Tested Compactability with Mods as follows:
 
-Applied Energyistics 2
+Applied Energyistics 2,
 Big Reactors
