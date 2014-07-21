@@ -19,7 +19,7 @@ This is how I will do my version numbers
 I will be forking mods to my profile to make sure ExmorCraft is happy running with different mods and may be some intergration testing aswell.
 
 
-Tested Compactability with Mods as follows:
-
+Testing Compactability with Mods as follows:
 Applied Energyistics 2,
+Equivalent-Exchange-3,
 Big Reactors
