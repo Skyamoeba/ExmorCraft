@@ -12,7 +12,6 @@ This is how I will do my version numbers
 1: Is Major Update,  
 2: Minor Changes,  
 3: Patch/ Bug fixes  (May be followed by a letter incase of a urgent bug fix.)
-
 4: Reference for change log
 
 
