@@ -4,6 +4,7 @@ import com.uklonewolf.exmorcraft.reference.Names;
 import net.minecraft.block.material.Material;
 
 public class ore_Copper extends BlockOreEC
+
 {
     public ore_Copper()
     {
