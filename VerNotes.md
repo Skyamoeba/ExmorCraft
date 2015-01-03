@@ -48,6 +48,9 @@ Forge Ver : 10.13.0.1179
 == ExmorCraft Ver 0.0.0.1             Forge Ver : 10.13.0.1179          ==
 --------------------------------------------------------------------------
 
-First very basic (no items) build of ExmorCraft Working in Minecraft 1.7.10
+
+        Build:
+              -- First very basic (no items) build of
+                 ExmorCraft Working in Minecraft 1.7.10
 
 ##########################################################################
