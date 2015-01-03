@@ -1,0 +1,21 @@
+[
+{
+  "modid" : "ExmorCraft",
+  "name" : "Exmor-Craft",
+  "description" : "Features yet to be decided",
+  "version" : "0.0.0.4-Alpha",
+  "mcversion" : "1.7.10",
+  "url" : "https://github.com/UKLoneWolf/ExmorCraft",
+  "updateUrl" : "",
+  "authorList" : [
+    "UK_Lone_Wolf"
+  ],
+  "credits" : "Created with help by pahimar's Lets Mod Reboot",
+  "logoFile" : "assets/exmocraft/textures/gui/CircuitBoard.png",
+  "screenshots" : [
+  ],
+  "parent" :"",
+  "dependencies": [
+  ]
+}
+]

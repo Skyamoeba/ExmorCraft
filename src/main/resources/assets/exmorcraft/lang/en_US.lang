@@ -1,0 +1,126 @@
+# Creative Tab
+itemGroup.exmorcraft=Exmor Craft
+
+# Keys
+keys.exmorcraft.category=Exmor Craft
+keys.exmorcraft.charge=Charge
+keys.exmorcraft.release=Release
+
+# Blocks
+tile.exmorcraft:silicaGlass.name=Silica Glass
+
+# Component Item Localizations
+
+# CPU
+item.exmorcraft:itemAdvancedCPU.name=Advanced CPU
+item.exmorcraft:itemBasicCPU.name=Basic CPU
+item.exmorcraft:itemMidCPU.name=Mid CPU
+
+# CircuitBoard Items
+
+item.exmorcraft:itemFiberboard.name=Fiber Board
+item.exmorcraft:itemCopperCladBoard.name=Clad PCB
+item.exmorcraft:itemTemplateCircuitBoard.name=Template PCB
+item.exmorcraft:itemFriztCircuitBoard.name=Frizted PCB
+item.exmorcraft:itemTrackedCircuitBoard.name= Blank PCB
+
+
+
+# Resistors
+item.exmorcraft:itemOhm50resistor.name=50 Ohm Resistor
+item.exmorcraft:itemOhm100resistor.name=100 Ohm Resistor
+item.exmorcraft:itemOhm150resistor.name=150 Ohm Resistor
+item.exmorcraft:itemOhm200resistor.name=200 Ohm Resistor
+item.exmorcraft:itemOhm250resistor.name=250 Ohm Resistor
+item.exmorcraft:itemUntunedresistor.name=Untuned Resistor
+
+# Power
+item.exmorcraft:itemTransistor.name=Transistor
+item.exmorcraft:itemToroid.name=Toroid
+item.exmorcraft:itemToroidCore.name=Toroid Core
+item.exmorcraft:itemTransformer.name=Transformer
+item.exmorcraft:itemCapacitor.name=Capacitor
+
+# Raw Materials
+item.exmorcraft:itemSilicon.name=Silicon
+item.exmorcraft:gemDiamond.name=Diamond
+
+#Dyes
+item.exmorcraft:dyeTubEmpty.name=Empty Dye Tub
+//TODO Add all dye tubs
+
+# Blocks
+tile.exmorcraft:cleanroomwall.name=Clean Room Wall
+
+# Ingots
+item.exmorcraft:ingotAluminum.name=Aluminum Ingot
+item.exmorcraft:ingotCopper.name=Copper Ingot
+item.exmorcraft:ingotDarkiron.name=Dark Iron Ingot
+item.exmorcraft:ingotLead.name=Lead Ingot
+item.exmorcraft:ingotMagnesium.name=Magnesium Ingot
+item.exmorcraft:ingotNickel.name=Nickel Ingot
+item.exmorcraft:ingotSalt.name=Salt
+item.exmorcraft:ingotSilica.name=Silica Ingot
+item.exmorcraft:ingotSilver.name=Silver Ingot
+item.exmorcraft:ingotTin.name=Tin Ingot
+item.exmorcraft:ingotUranium.name=Uranium Ingot
+item.exmorcraft:ingotRedstone.name=Redstone Ingot
+
+# Dusts
+item.exmorcraft:dustAluminum.name=Aluminum Dust
+item.exmorcraft:dustCopper.name=Copper Dust
+item.exmorcraft:dustDarkiron.name=Dark Iron Dust
+item.exmorcraft:dustLead.name=Lead Dust
+item.exmorcraft:dustMagnesium.name=Magnesium Dust
+item.exmorcraft:dustNickel.name=Nickel Dust
+item.exmorcraft:dustSalt.name= Salt Dust
+item.exmorcraft:dustSilica.name=Silica Dust
+item.exmorcraft:dustSilver.name=Silver Dust
+item.exmorcraft:dustTin.name=Tin Dust
+item.exmorcraft:dustUranium.name=Uranium Dust
+
+# General Item Localizations
+
+# Ore Textures and names
+tile.exmorcraft:oreCopper.name=Copper Ore
+tile.exmorcraft:oreAluminum.name=Aluminum Ore
+tile.exmorcraft:oreDarkiron.name=Dark Iron Ore
+tile.exmorcraft:oreLead.name=Lead Ore
+tile.exmorcraft:oreMagnesium.name=Magnesium ore
+tile.exmorcraft:oreNickel.name=Nickel Ore
+tile.exmorcraft:oreSalt.name=Salt Ore
+tile.exmorcraft:oreSilver.name=Silver Ore
+tile.exmorcraft:oreTin.name=Tin Ore
+tile.exmorcraft:oreUranium.name=Uranium Ore
+tile.exmorcraft:oreSilica.name=Silica Ore
+tile.exmorcraft:oreDiamond.name=Diamond Ore
+
+#Tools (Complete)
+tool.exmorcraft:toolHandGrinder.name=Hand Grinder
+tool.exmorcraft:toolSilicaAxe.name=Silica Axe
+tool.exmorcraft:toolSilicaHoe.name=Silica Hoe
+tool.exmorcraft:toolSilicaPickaxe.name=Silica Pickaxe
+tool.exmorcraft:toolSilicaShears.name=Silica Shears
+tool.exmorcraft:toolSilicaShovel.name=Silica Shovel
+tool.exmorcraft:toolSilicaSword.name=Silica Sword
+
+# Dyes
+
+item.exmorcraft:TubEmpty.name=Empty Dye Tub
+item.exmorcraft:dyeBlack.name=Black Dye
+item.exmorcraft:dyeBlue.name=Blue Dye
+item.exmorcraft:dyeBrown.name=Brown Dye
+item.exmorcraft:dyeCyan.name=Cyan Dye
+item.exmorcraft:dyeGold.name=Gold Dye
+item.exmorcraft:dyeGray.name=Gray Dye
+item.exmorcraft:dyeGreen.name=Green Dye
+item.exmorcraft:dyeLightBlue.name=LightBlue Dye
+item.exmorcraft:dyeLime.name=Lime Dye
+item.exmorcraft:dyeMagenta.name=Magenta Dye
+item.exmorcraft:dyeOrange.name=Orange Dye
+item.exmorcraft:dyePink.name=Pink Dye
+item.exmorcraft:dyePurple.name=Purple Dye
+item.exmorcraft:dyeRed.name=Red Dye
+item.exmorcraft:dyeSilver.name=Silver Dye
+item.exmorcraft:dyeWhite.name=White Dye
+item.exmorcraft:dyeYellow.name=Yellow Dye
