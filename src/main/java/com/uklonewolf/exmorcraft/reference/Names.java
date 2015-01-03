@@ -23,6 +23,7 @@ public final class Names
         public static final String CATEGORY = "keys.exmorcraft.category";
         public static final String CHARGE = "keys.exmorcraft.charge";
         public static final String RELEASE = "keys.exmorcraft.release";
+        public static final String FORWARD = "keys.exmorcraft.forward";
     }
 
     public static final class EXGlass //Names.BlockNames.

@@ -18,6 +18,10 @@ public class KeyInputEventHandler
         {
             return Key.RELEASE;
         }
+        else if (Keybindings.forward.isPressed())
+        {
+            return Key.FORWARD;
+        }
         return Key.UNKNOWN;
     }
 

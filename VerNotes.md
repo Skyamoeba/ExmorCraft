@@ -18,16 +18,22 @@ Forge Ver : 10.13.0.1179
 == ExmorCraft Ver 0.0.0.4             Forge Ver : 10.13.0.1179         ==
 -------------------------------------------------------------------------
 
+        Added:
+              -- Log display to show when E (forward) is pressed.
+              -- IC2 Mod Loaded Checker
+
         Fixes:
               -- error: <identifier>
 
+      Altered:
+              -- Bit more fun with damage values
 
 #########################################################################
 == ExmorCraft Ver 0.0.0.3             Forge Ver : 10.13.0.1179         ==
 -------------------------------------------------------------------------
 
       Altered:
-              -- Hardness level on clean room wall for testing
+              -- Hardness level on two blocks for testing
 
 
 

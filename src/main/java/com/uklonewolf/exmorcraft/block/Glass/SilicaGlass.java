@@ -17,7 +17,7 @@ public class SilicaGlass extends GlassEC
         this.setBlockName(Names.EXGlass.SILICA_GLASS);
         this.setBlockTextureName(Names.EXGlass.SILICA_GLASS);
         this.setResistance(900000000.0F);
-        this.setHardness(10.0F);
+        this.setHardness(900000000.0F);
     }
 
     /**

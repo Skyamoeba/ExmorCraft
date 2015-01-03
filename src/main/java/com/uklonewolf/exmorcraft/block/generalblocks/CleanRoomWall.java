@@ -15,4 +15,7 @@ public class CleanRoomWall extends BlockEC
             this.setResistance(900000000.0F);
             this.setStepSound(soundTypeMetal);
         }
+
+
+
 }

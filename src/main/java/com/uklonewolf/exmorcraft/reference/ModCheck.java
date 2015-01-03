@@ -17,4 +17,12 @@ public class ModCheck
         public static final String TE3_NOT_INSTALLED = "############ Thermal Expansion is Not Installed #############";
         public static final String TE3_WEB = "http://teamcofh.com/thermal-expansion/";
     }
+
+    public static final class IC2 //ModCheck.IC2.
+    {
+        public static final String IC2_MOD_NAME = "IndustrialCraft2";
+        public static final String IC2_INSTALLED = "############ Industrial Craft 2 is Installed #################";
+        public static final String IC2_NOT_INSTALLED = "############ Industrial Craft 2 is Not Installed #############";
+        public static final String IC2_WEB = "http://ic2api.player.to:8080/job/IC2_experimental/";
+    }
 }

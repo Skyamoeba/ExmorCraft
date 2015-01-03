@@ -107,6 +107,8 @@ public class ExmorCraftRun
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
+        LogHelper.info("############# Seeing What Mods Are Installed #########");
+
         //Applied Energyistics 2
         if (Loader.isModLoaded(ModCheck.AE2.AE2_MOD_NAME))
         {
@@ -119,10 +121,6 @@ public class ExmorCraftRun
             LogHelper.info(ModCheck.AE2.AE2_WEB);
         }
 
-
-
-
-
        if (Loader.isModLoaded(ModCheck.TE3.TE3_MOD_NAME))
         {
             LogHelper.info(ModCheck.TE3.TE3_INSTALLED);
@@ -133,6 +131,15 @@ public class ExmorCraftRun
             LogHelper.info(ModCheck.TE3.TE3_WEB);
         }
 
+        if (Loader.isModLoaded(ModCheck.IC2.IC2_MOD_NAME))
+        {
+            LogHelper.info(ModCheck.IC2.IC2_INSTALLED);
+        }
+        else
+        {
+            LogHelper.info(ModCheck.IC2.IC2_NOT_INSTALLED);
+            LogHelper.info(ModCheck.IC2.IC2_WEB);
+        }
 
         LogHelper.info("Post Initialization Complete!");
         LogHelper.info("Getting Ore List");
