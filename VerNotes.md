@@ -24,6 +24,7 @@ Forge Ver : 10.13.0.1179
 
         Fixes:
               -- error: <identifier>
+              -- Inventory not opening fix
 
       Altered:
               -- Bit more fun with damage values
