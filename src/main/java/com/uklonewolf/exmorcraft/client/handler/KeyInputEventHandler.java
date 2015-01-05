@@ -18,6 +18,7 @@ public class KeyInputEventHandler
         {
             return Key.RELEASE;
         }
+
         return Key.UNKNOWN;
     }
 
