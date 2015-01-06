@@ -106,7 +106,7 @@ tool.exmorcraft:toolSilicaSword.name=Silica Sword
 
 # Dyes
 
-item.exmorcraft:TubEmpty.name=Empty Dye Tub
+item.exmorcraft:dyeTubEmpty.name=Empty Dye Tub
 item.exmorcraft:dyeBlack.name=Black Dye
 item.exmorcraft:dyeBlue.name=Blue Dye
 item.exmorcraft:dyeBrown.name=Brown Dye

@@ -1,26 +1,33 @@
 ======================================================
-## ExmorCraft Version Information and Version Notes ##
+## ExmorCraft Version Notes ##
 ======================================================
 
-=====================
-## Current Release ##
-=====================
-Version   : 0.0.0.4
-MC Version: 1.7.10
-Forge Ver : 10.13.0.1179
 
-
-===================
-## Version Notes ##
-===================
 
 #########################################################################
-== ExmorCraft Ver 0.0.0.4             Forge Ver : 10.13.0.1179         ==
+== ExmorCraft Ver 0.0.0.4-ALPHA-0.0.5                                  ==
 -------------------------------------------------------------------------
+
+ Forge Update:
+              -- No Changes
+
+      Updated:
+              -- mcmod.info to show new ver info
 
         Added:
               -- Log display to show when E (forward) is pressed.
               -- IC2 Mod Loaded Checker
+              -- HandGrinder Recipes
+
+      Removed:
+              -- Forge Ver from Ver Title Bar (See Moved)
+
+   Working On:
+              -- Recipes for Items, ect and Balancing between Mods
+
+        Moved:
+              -- Forge Ver from ver bar in VerNotes
+                 Will now be displayed in notes as Forge Update
 
         Fixes:
               -- error: <identifier>
@@ -28,6 +35,7 @@ Forge Ver : 10.13.0.1179
 
       Altered:
               -- Bit more fun with damage values
+
 
 
 #########################################################################
