@@ -8,7 +8,7 @@
 == ExmorCraft Ver 0.0.0.4-ALPHA-0.0.5                                  ==
 -------------------------------------------------------------------------
 
- Forge Update:
+  ForgeUpdate:
               -- No Changes
 
       Updated:
@@ -22,8 +22,8 @@
       Removed:
               -- Forge Ver from Ver Title Bar (See Moved)
 
-   Working On:
-              -- Recipes for Items, ect and Balancing between Mods
+    WorkingOn:
+              -- Recipes for items, ect and balancing between mods
 
         Moved:
               -- Forge Ver from ver bar in VerNotes
