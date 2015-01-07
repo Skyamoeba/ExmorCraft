@@ -1,6 +1,7 @@
 package com.uklonewolf.exmorcraft.init;
 
 import com.uklonewolf.exmorcraft.item.dusts.*;
+import com.uklonewolf.exmorcraft.reference.Names;
 import com.uklonewolf.exmorcraft.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -24,18 +25,17 @@ public class ModDusts
     public static void init()
     {
     //#################### Raw Materials And Ingots ######################
-        GameRegistry.registerItem(dustAluminum, "dustAluminum");
-        GameRegistry.registerItem(dustCopper, "dustCopper");
-        GameRegistry.registerItem(dustDarkiron, "dustDarkiron");
-        GameRegistry.registerItem(dustLead, "dustLead");
-        GameRegistry.registerItem(dustMagnesium, "dustMagnesium");
-        GameRegistry.registerItem(dustNickel, "dustNickel");
-        GameRegistry.registerItem(dustSalt, "dustSalt");
-        GameRegistry.registerItem(dustSilica, "dustSilica");
-        GameRegistry.registerItem(dustSilver, "dustSilver");
-        GameRegistry.registerItem(dustTin, "dustTin");
-        GameRegistry.registerItem(dustUranium, "dustUranium");
-        //TODO Add these to Names
+        GameRegistry.registerItem(dustAluminum, Names.Dusts.Dusts_Aluminium);
+        GameRegistry.registerItem(dustCopper, Names.Dusts.Dusts_Copper);
+        GameRegistry.registerItem(dustDarkiron, Names.Dusts.Dusts_Darkiron);
+        GameRegistry.registerItem(dustLead, Names.Dusts.Dusts_Lead);
+        GameRegistry.registerItem(dustMagnesium, Names.Dusts.Dusts_Magnesium);
+        GameRegistry.registerItem(dustNickel, Names.Dusts.Dusts_Nickel);
+        GameRegistry.registerItem(dustSalt, Names.Dusts.Dusts_Salt);
+        GameRegistry.registerItem(dustSilica, Names.Dusts.Dusts_Silica);
+        GameRegistry.registerItem(dustSilver, Names.Dusts.Dusts_Silver);
+        GameRegistry.registerItem(dustTin, Names.Dusts.Dusts_Tin);
+        GameRegistry.registerItem(dustUranium, Names.Dusts.Dusts_Uranium);
     //####################################################################
     }
 

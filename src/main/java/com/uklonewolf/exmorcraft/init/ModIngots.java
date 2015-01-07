@@ -1,6 +1,7 @@
 package com.uklonewolf.exmorcraft.init;
 
 import com.uklonewolf.exmorcraft.item.ingots.*;
+import com.uklonewolf.exmorcraft.reference.Names;
 import com.uklonewolf.exmorcraft.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -25,19 +26,18 @@ public class ModIngots
     public static void init()
     {
     //#################### Raw Materials And Ingots ######################
-        GameRegistry.registerItem(ingotAluminum, "ingotAluminum");
-        GameRegistry.registerItem(ingotCopper, "ingotCopper");
-        GameRegistry.registerItem(ingotDarkiron, "ingotDarkiron");
-        GameRegistry.registerItem(ingotLead, "ingotLead");
-        GameRegistry.registerItem(ingotMagnesium, "ingotMagnesium");
-        GameRegistry.registerItem(ingotNickel, "ingotNickel");
-        //GameRegistry.registerItem(ingotSalt, "ingotSalt");                //Note: Undecided to add Salt Ingot to Minecraft.
-        GameRegistry.registerItem(ingotSilica, "ingotSilica");
-        GameRegistry.registerItem(ingotSilver, "ingotSilver");
-        GameRegistry.registerItem(ingotTin, "ingotTin");
-        GameRegistry.registerItem(ingotUranium, "ingotUranium");
-        GameRegistry.registerItem(ingotRedstone, "ingotRedstone");
-        //TODO Add these to Names
+        GameRegistry.registerItem(ingotAluminum, Names.Ingots.Ingot_Aluminium);
+        GameRegistry.registerItem(ingotCopper, Names.Ingots.Ingot_Copper);
+        GameRegistry.registerItem(ingotDarkiron, Names.Ingots.Ingot_Darkiron);
+        GameRegistry.registerItem(ingotLead, Names.Ingots.Ingot_Lead);
+        GameRegistry.registerItem(ingotMagnesium, Names.Ingots.Ingot_Magnesium);
+        GameRegistry.registerItem(ingotNickel, Names.Ingots.Ingot_Nickel);
+        //GameRegistry.registerItem(ingotSalt, Names.Ingots.Ingot_Salt);                //Note: Undecided to add Salt Ingot to Minecraft.
+        GameRegistry.registerItem(ingotSilica, Names.Ingots.Ingot_Silica);
+        GameRegistry.registerItem(ingotSilver, Names.Ingots.Ingot_Silver);
+        GameRegistry.registerItem(ingotTin, Names.Ingots.Ingot_Tin);
+        GameRegistry.registerItem(ingotUranium, Names.Ingots.Ingot_Uranium);
+        GameRegistry.registerItem(ingotRedstone, Names.Ingots.Ingot_Redstone);
     //####################################################################
     }
 

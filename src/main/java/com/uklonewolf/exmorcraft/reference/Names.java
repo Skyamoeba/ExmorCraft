@@ -80,6 +80,7 @@ public final class Names
     public static final class Consuables //Names.Consuables.
     {
         public static final String ItemCons_Silicon =  "itemSilicon";
+        public static final String ItemCons_Diamond =  "gemDiamond";
     }
     
     public static final class Items //Names.Items.

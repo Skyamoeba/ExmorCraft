@@ -18,6 +18,7 @@ Forge Update:
               -- Log display to show when E (forward) is pressed.
               -- IC2 Mod Loaded Checker
               -- HandGrinder Recipes
+              -- A few TODO items
 
       Removed:
               -- Forge Ver from Ver Title Bar (See Moved)
@@ -35,7 +36,6 @@ Forge Update:
 
       Altered:
               -- Bit more fun with damage values
-
 
 
 #########################################################################

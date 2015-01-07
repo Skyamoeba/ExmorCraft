@@ -13,6 +13,7 @@ import com.uklonewolf.exmorcraft.item.generalitems.component.power.ItemTransform
 import com.uklonewolf.exmorcraft.item.generalitems.component.resistors.*;
 import com.uklonewolf.exmorcraft.item.generalitems.ItemEC;
 import com.uklonewolf.exmorcraft.item.generalitems.consuables.itemDiamond;
+import com.uklonewolf.exmorcraft.reference.Names;
 import com.uklonewolf.exmorcraft.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -98,8 +99,8 @@ public class ModItems
 
 
     //############################ Consuables Items ######################
-        GameRegistry.registerItem(itemSilicon, "itemSilicon");
-        GameRegistry.registerItem(gemDiamond, "gemDiamond");
+        GameRegistry.registerItem(itemSilicon, Names.Consuables.ItemCons_Silicon);
+        GameRegistry.registerItem(gemDiamond, Names.Consuables.ItemCons_Diamond);
 
     //####################################################################
 

@@ -52,17 +52,13 @@ public class ExmorCraftRun
     public void preInit(FMLPreInitializationEvent event) {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+
         LogHelper.info("################################################");
-        LogHelper.info("#####-----###--##--###-----###-----###-----#####");
-        LogHelper.info("#####-########----####-#-#-###-###-###-#########");
-        LogHelper.info("#####-----#####--#####-#-#-###-###-###-#########");
-        LogHelper.info("#####-########----####-#-#-###-###-###-#########");
-        LogHelper.info("#####-----###--##--###-###-###-----###-#########");
+        LogHelper.info("##                 EXMORCRAFT                 ##");
         LogHelper.info("################################################");
         LogHelper.info("Mod     : " + Reference.MOD_NAME);
         LogHelper.info("Version : " + Reference.VERSION);
         LogHelper.info("Author  : " + Reference.AUTHOR);
-        LogHelper.info("This will be removed when EXMORCRAFT is out of ALPHA");
         LogHelper.info("################################################");
         proxy.registerKeyBindings();
 
