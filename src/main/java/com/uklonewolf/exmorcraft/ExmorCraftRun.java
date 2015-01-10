@@ -5,6 +5,7 @@ import com.uklonewolf.exmorcraft.handler.ConfigurationHandler;
 import com.uklonewolf.exmorcraft.init.*;
 import com.uklonewolf.exmorcraft.init.Registration.*;
 import com.uklonewolf.exmorcraft.init.Registration.worldgen.WorldGenRegistration;
+import com.uklonewolf.exmorcraft.init.externalRecipes.ECAE2Recipes;
 import com.uklonewolf.exmorcraft.init.recipes.*;
 import com.uklonewolf.exmorcraft.proxy.IProxy;
 import com.uklonewolf.exmorcraft.reference.Messages;
@@ -54,11 +55,11 @@ public class ExmorCraftRun
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
         LogHelper.info("################################################");
-        LogHelper.info("##                 EXMORCRAFT                 ##");
+        LogHelper.info("##              ## ExmorCraft ##              ##");
         LogHelper.info("################################################");
-        LogHelper.info("Mod     : " + Reference.MOD_NAME);
-        LogHelper.info("Version : " + Reference.VERSION);
-        LogHelper.info("Author  : " + Reference.AUTHOR);
+        LogHelper.info("## Mod     : " + Reference.MOD_NAME);
+        LogHelper.info("## Version : " + Reference.VERSION);
+        LogHelper.info("## Author  : " + Reference.AUTHOR);
         LogHelper.info("################################################");
         proxy.registerKeyBindings();
 
@@ -109,6 +110,7 @@ public class ExmorCraftRun
         if (Loader.isModLoaded(ModCheck.AE2.AE2_MOD_NAME))
         {
             LogHelper.info(ModCheck.AE2.AE2_INSTALLED);
+            //ECAE2Recipes.init();
           //TODO Add API for AE2 and add grinder recipies
         }
         else

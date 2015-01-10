@@ -8,7 +8,6 @@ public final class Names
 
     public static final class NBT //Names.NBT.
     {
-        public static final String CRAFTING_GUI_OPEN = "craftingGuiOpen";
 
     }
 
