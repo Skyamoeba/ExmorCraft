@@ -84,7 +84,7 @@ item.exmorcraft:dustUranium.name=Uranium Dust
 # Ore Textures and names
 tile.exmorcraft:OreCopper.name=Copper Ore
 tile.exmorcraft:OreAluminum.name=Aluminum Ore
-tile.exmorcraft:OreDarkiron.name=Dark Iron Ore
+tile.exmorcraft:OreDarkIron.name=Dark Iron Ore
 tile.exmorcraft:OreLead.name=Lead Ore
 tile.exmorcraft:OreMagnesium.name=Magnesium ore
 tile.exmorcraft:OreNickel.name=Nickel Ore

@@ -11,7 +11,7 @@ public class CleanRoomWall extends BlockEC
             this.setBlockName(Names.Blocks.Clean_Room_Wall);
             this.setBlockTextureName(Names.Blocks.Clean_Room_Wall);
             this.setHarvestLevel("pickaxe", 3);
-            this.setHardness(900000000.0F);
+            this.setHardness(1.0F);
             this.setResistance(900000000.0F);
             this.setStepSound(soundTypeMetal);
         }
