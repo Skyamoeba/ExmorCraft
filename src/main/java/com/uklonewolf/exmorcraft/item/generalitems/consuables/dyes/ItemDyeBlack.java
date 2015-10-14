@@ -8,7 +8,7 @@ public class ItemDyeBlack extends DyeEC
     {
         super();
         this.setUnlocalizedName("dyeBlack");
-        //this.setTextureName("ExmordyeBlack");
+        this.setTextureName("dyeBlack");
         this.maxStackSize = 64;
     }
 }

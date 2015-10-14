@@ -82,18 +82,18 @@ item.exmorcraft:dustUranium.name=Uranium Dust
 # General Item Localizations
 
 # Ore Textures and names
-tile.exmorcraft:oreCopper.name=Copper Ore
-tile.exmorcraft:oreAluminum.name=Aluminum Ore
-tile.exmorcraft:oreDarkiron.name=Dark Iron Ore
-tile.exmorcraft:oreLead.name=Lead Ore
-tile.exmorcraft:oreMagnesium.name=Magnesium ore
-tile.exmorcraft:oreNickel.name=Nickel Ore
-tile.exmorcraft:oreSalt.name=Salt Ore
-tile.exmorcraft:oreSilver.name=Silver Ore
-tile.exmorcraft:oreTin.name=Tin Ore
-tile.exmorcraft:oreUranium.name=Uranium Ore
-tile.exmorcraft:oreSilica.name=Silica Ore
-tile.exmorcraft:oreDiamond.name=Diamond Ore
+tile.exmorcraft:OreCopper.name=Copper Ore
+tile.exmorcraft:OreAluminum.name=Aluminum Ore
+tile.exmorcraft:OreDarkiron.name=Dark Iron Ore
+tile.exmorcraft:OreLead.name=Lead Ore
+tile.exmorcraft:OreMagnesium.name=Magnesium ore
+tile.exmorcraft:OreNickel.name=Nickel Ore
+tile.exmorcraft:OreSalt.name=Salt Ore
+tile.exmorcraft:OreSilver.name=Silver Ore
+tile.exmorcraft:OreTin.name=Tin Ore
+tile.exmorcraft:OreUranium.name=Uranium Ore
+tile.exmorcraft:OreSilica.name=Silica Ore
+tile.exmorcraft:OreDiamond.name=Diamond Ore
 
 #Tools (Complete)
 tool.exmorcraft:toolHandGrinder.name=Hand Grinder

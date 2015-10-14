@@ -50,18 +50,18 @@ public final class Names
     public static final class Ore //Names.Ore.
     {
     
-        public static final String Ore_Aluminium =  "oreAluminum";
-        public static final String Ore_Copper =     "oreCopper";
-        public static final String Ore_Darkiron =   "oreDarkiron";
-        public static final String Ore_Lead =       "oreLead";
-        public static final String Ore_Magnesium =  "oreMagnesium";
-        public static final String Ore_Nickel =     "oreNickel";
-        public static final String Ore_Salt =       "oreSalt";
-        public static final String Ore_Silica =     "oreSilica";
-        public static final String Ore_Silver =     "oreSilver";
-        public static final String Ore_Tin =        "oreTin";
-        public static final String Ore_Uranium =    "oreUranium";
-        public static final String Ore_Diamond =    "oreDiamond";
+        public static final String Ore_Aluminium =  "OreAluminum";
+        public static final String Ore_Copper =     "OreCopper";
+        public static final String Ore_Darkiron =   "OreDarkiron";
+        public static final String Ore_Lead =       "OreLead";
+        public static final String Ore_Magnesium =  "OreMagnesium";
+        public static final String Ore_Nickel =     "OreNickel";
+        public static final String Ore_Salt =       "OreSalt";
+        public static final String Ore_Silica =     "OreSilica";
+        public static final String Ore_Silver =     "OreSilver";
+        public static final String Ore_Tin =        "OreTin";
+        public static final String Ore_Uranium =    "OreUranium";
+        public static final String Ore_Diamond =    "OreDiamond";
     }
 
     //GeneralItems

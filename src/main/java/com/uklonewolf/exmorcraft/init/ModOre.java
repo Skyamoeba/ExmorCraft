@@ -1,6 +1,7 @@
 package com.uklonewolf.exmorcraft.init;
 
 import com.uklonewolf.exmorcraft.block.ore.*;
+import com.uklonewolf.exmorcraft.reference.Names;
 import com.uklonewolf.exmorcraft.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -35,8 +36,8 @@ public class ModOre
         GameRegistry.registerBlock(oreTin, "oreTin");
         GameRegistry.registerBlock(oreUranium, "oreUranium");
         GameRegistry.registerBlock(oreSilica, "oreSilica");
-        GameRegistry.registerBlock(oreDiamond, "oreDiamond");
-        //TODO Add these to Names
+        GameRegistry.registerBlock(oreDiamond, Names.Ore.Ore_Diamond);
+                //TODO Add these to Names
     }
  //##################################################################
 }
